@@ -33,7 +33,9 @@ h2{
 
 h3{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: darkgreen;
+    color: rgb(25, 151, 25);
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgb(253, 253, 253);
 }
 
 #copyright{
@@ -48,11 +50,7 @@ h3{
 
 }
 
-#AboutMe{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:darkcyan; 
 
-}
 
 a{
     text-decoration:none ;
