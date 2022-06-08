@@ -3,13 +3,14 @@
     background-color: rgba(116, 64, 48, 0.801);
     height: 50px;
     text-align: center;
+    text-shadow: 2px 2px 4px black; 
 }
 
 #header{
 
 font-family:Verdana, Geneva, Tahoma, sans-serif;   
-color: rgb(19, 239, 255);
-
+color: rgb(82, 191, 199);
+text-shadow: 2px 2px 4px white; 
 }
 
 body{
